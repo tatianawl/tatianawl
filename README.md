@@ -17,7 +17,7 @@
 <div align="center"> 
   
  <!-- 🔭 Currently working on  **___** -->
- 🌱 Currently learning **Swift, React, React Native, JavaScript**
+ 🌱 Currently learning **Swift, React, React Native**
 
 ## Projects
 
