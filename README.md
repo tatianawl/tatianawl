@@ -27,12 +27,12 @@
 |---------------|-------------------------------------|-------------------------|-------------------------------------------|
 | Doblin    | BoardGame that integrates AI          | Prolog           | [Doblin](https://github.com/yourproject1) |
 | AskFeup| AskFeup - Q&A website                | Laravel, PostgreSQL      | [AskFeup](https://github.com/yourproject3) |
-| Project 3     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
-| Project 4     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
-| Project 5     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
-| Project 6     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
-| Project 7     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
-| Project 8     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 3     | Mobile fitness tracking app.        | React Native, Firebase    | [GitHub](https://github.com/yourproject2) |
+| Project 4     | -       | -   | [GitHub](https://github.com/yourproject2) |
+| Project 5     | -      | -   | [GitHub](https://github.com/yourproject2) |
+| Project 6     | -        | -  | [GitHub](https://github.com/yourproject2) |
+| Project 7     | -       | -   | [GitHub](https://github.com/yourproject2) |
+| Project 8     | -    | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
 
 </div>
 
