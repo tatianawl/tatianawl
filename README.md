@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="center">
-     Informatics and Computing Engineering student at FEUP  <br/> 🇵🇹🇨🇳 <br>
+     Informatics and Computing Engineering student at FEUP  <br>
 </h3>
 <br/>
 
