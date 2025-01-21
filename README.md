@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=tatianawl&style=for-the-badge&color=8E44AD" alt="Profile Views" />
  <!--  <img src="https://img.shields.io/badge/GitHub-Profile-8E44AD?style=for-the-badge&logo=github" alt="GitHub Badge" />  -->
    <img src="https://img.shields.io/badge/GitHub-Profile-purple?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  <a href="https://github.com/tatianawl" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Profile-purple?style=for-the-badge&logo=github" alt="GitHub Badge" />
+</a>
+
 </p>
 
 <h1 align="center">
