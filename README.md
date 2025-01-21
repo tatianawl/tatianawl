@@ -10,18 +10,16 @@
 
 
 <h3 align="center">
-    🇵🇹 Informatics and Computing Engineering student at FEUP 🇨🇳 <br>
+     Informatics and Computing Engineering student at FEUP 🇵🇹🇨🇳 <br>
 </h3>
 <br/>
 
 <div align="center"> 
- 
- <!-- 🔭 I’m currently working on  **___** -->
- 🔭 I’m currently studying for my  **exams**
+  
+ <!-- 🔭 Currently working on  **___** -->
+ 🌱 Currently learning **Swift, React, React Native, JavaScript**
 
- 🌱 I’m currently learning **Swift, React, React Native, JavaScript**
-
-## 🛠️ Projects
+## Projects
 
 | Project       | Description                         | Technologies            | Link                                      |
 |---------------|-------------------------------------|-------------------------|-------------------------------------------|
@@ -30,7 +28,6 @@
 | AskFeup| AskFeup - Q&A website                | Laravel, PostgreSQL      | [AskFeup](https://github.com/yourproject3) |
 
 </div>
-
 
  <!--
 <div align="center"> 
@@ -45,7 +42,6 @@
   </a>
 </div>
 -->
-
 <div align="center"> 
   <!-- Gmail -->
   <a href="mailto:tatiana.lin.wang@gmail.com">
@@ -69,7 +65,7 @@
   </a> -->
 </div>
 
- <hr/>
+<!--<hr/> -->
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -88,7 +84,7 @@
 </div>
 
 <br/>
-<hr/>
+<!--<hr/> -->
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -102,14 +98,9 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tatianawl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=tatianawl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianawl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img width=305 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tatianawl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=290 src="https://github-readme-stats-salesp07.vercel.app/api?username=tatianawl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />  
+ <!-- <img width=290 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianawl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-
-
-
+-->
