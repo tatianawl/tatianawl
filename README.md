@@ -95,7 +95,7 @@
 -->
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,vscode,github,git,gitlab" /><br>
-    <img src="https://skillicons.dev/icons?i=python,laravel,cpp,java,mysql,c,haskell,firebase,swift" /><br>
+    <img src="https://skillicons.dev/icons?i=python,laravel,cpp,java,mysql,c,haskell,firebase,docker,swift" /><br>
     <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva" />
     <img src="https://img.shields.io/badge/Prolog-blue?logo=prolog&logoColor=white&style=for-the-badge" alt="Prolog" />
 
