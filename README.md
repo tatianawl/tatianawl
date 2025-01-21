@@ -1,35 +1,38 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tatianawl&style=for-the-badge&color=8E44AD" alt="Profile Views" />
  <!--  <img src="https://img.shields.io/badge/GitHub-Profile-8E44AD?style=for-the-badge&logo=github" alt="GitHub Badge" />  -->
-   <img src="https://img.shields.io/badge/GitHub-Profile-purple?style=for-the-badge&logo=github" alt="GitHub Badge" />
   <a href="https://github.com/tatianawl" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Profile-purple?style=for-the-badge&logo=github" alt="GitHub Badge" />
-</a>
-
+    <img src="https://img.shields.io/badge/GitHub-Profile-purple?style=for-the-badge&logo=github" alt="GitHub Badge" />
+  </a>
 </p>
 
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=8E44AD&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tatiana+Lin!;" />
-</h1>
-
+</p>
 
 <h3 align="center">
-     Informatics and Computing Engineering student at FEUP 🇵🇹🇨🇳 <br>
+     Informatics and Computing Engineering student at FEUP  <br/> 🇵🇹🇨🇳 <br>
 </h3>
 <br/>
 
 <div align="center"> 
   
  <!-- 🔭 Currently working on  **___** -->
- 🌱 Currently learning **Swift, React, React Native**
-
-## Projects
+  🌱 Currently learning **Swift, React, React Native**
+  
+<hr/> 
+<h3 align="center"> Projects </h3>
 
 | Project       | Description                         | Technologies            | Link                                      |
 |---------------|-------------------------------------|-------------------------|-------------------------------------------|
 | Doblin    | BoardGame that integrates AI          | Prolog           | [Doblin](https://github.com/yourproject1) |
-| Project 2     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
 | AskFeup| AskFeup - Q&A website                | Laravel, PostgreSQL      | [AskFeup](https://github.com/yourproject3) |
+| Project 3     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 4     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 5     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 6     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 7     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 8     | Mobile fitness tracking app.        | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
 
 </div>
 
@@ -69,9 +72,8 @@
   </a> -->
 </div>
 
-<!--<hr/> -->
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+<h3 align="center">⚒ Languages-Frameworks-Tools ⚒</h3>
 <br/>
 <!--
 <div align="center">
@@ -84,23 +86,18 @@
     <img src="https://skillicons.dev/icons?i=python,laravel,cpp,java,mysql,c,haskell,firebase,docker,swift" /><br>
     <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" alt="Canva" />
     <img src="https://img.shields.io/badge/Prolog-blue?logo=prolog&logoColor=white&style=for-the-badge" alt="Prolog" />
-
 </div>
-
 <br/>
-<!--<hr/> -->
 
+<hr/> 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <h3> My Contributions </h3>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tatianawl/tatianawl/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+ </div>
+
 
 <hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="center"> Stats </h3>
 <br>
 <div align="center">
   <img width=305 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=tatianawl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
