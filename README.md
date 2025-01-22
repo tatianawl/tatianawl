@@ -32,7 +32,7 @@
 | Project 5     | -      | -   | [GitHub](https://github.com/yourproject2) |
 | Project 6     | -        | -  | [GitHub](https://github.com/yourproject2) |
 | Project 7     | -       | -   | [GitHub](https://github.com/yourproject2) |
-| Project 8     | -    | React Native, Firebase   | [GitHub](https://github.com/yourproject2) |
+| Project 8     | -    | -   | [GitHub](https://github.com/yourproject2) |
 
 </div>
 
